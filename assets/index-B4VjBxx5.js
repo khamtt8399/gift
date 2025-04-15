@@ -7,12 +7,12 @@ const __vite__mapDeps = (
 			"./assets/writeEffect-AR-eltf6.js",
 			"./assets/animationSetup-DnxAb-5H.js",
 			"./assets/cascade-BAMwmGLg.js",
-			"/assets./loop-Gne9yU5X.js",
-			"/assets./writeAndUnwriteText-PbXJ1MI3.js",
-			"/assets./unwriteEffect-DcMsDGgo.js",
-			"/assets./loopOnce-D-JZyTtz.js",
-			"/assets./loopRandom-CIs9f61N.js",
-			"/assets./scramble-CgGs5LG2.js",
+			"./assets/loop-Gne9yU5X.js",
+			"./assets/writeAndUnwriteText-PbXJ1MI3.js",
+			"./assets/unwriteEffect-DcMsDGgo.js",
+			"./assets/loopOnce-D-JZyTtz.js",
+			"./assets/loopRandom-CIs9f61N.js",
+			"./assets/scramble-CgGs5LG2.js",
 		])
 ) => i.map((i) => d[i]);
 (function () {
